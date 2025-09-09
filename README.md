@@ -1,4 +1,4 @@
-# Pok-dex-Airceus
+# Pokédex-Airceus
 Per poter utilizzare il codice:
   1. Scaricare il notebook .ipynb
   2. Scaricare le cartelle allegate e caricarle sul Drive
