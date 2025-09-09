@@ -1,8 +1,9 @@
 # Pokédex-Airceus_ID0_2129071_2155292
 Per poter utilizzare il codice:
   1. Scaricare il notebook .ipynb
-  2. Scaricare le cartelle allegate e caricarle sul Drive
-  3. Eseguire tutte le celle
+  2. Scaricare la cartella Pkmn al seguente link: https://drive.google.com/drive/folders/1-NZo4aqBjwnOFiV_hfLXoajCUcTtAMgv?usp=sharing
+  3. Caricare tutto sul proprio Drive
+  4. Eseguire tutte le celle
 
 Il codice può essere usato senza dover svolgere una nuova fase di training grazie all'uso di checkpoint presenti nelle cartelle allegate.
 Per svolgere un nuovo allenamento, impostare True nella sezione dedicata ai checkpoint o eliminarli completamente dalle cartelle.
