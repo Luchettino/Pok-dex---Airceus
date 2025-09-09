@@ -9,3 +9,5 @@ Il codice può essere usato senza dover svolgere una nuova fase di training graz
 Per svolgere un nuovo allenamento, impostare True nella sezione dedicata ai checkpoint o eliminarli completamente dalle cartelle.
 Per quanto riguarda la parte relativa alle canzoni, alcune sono già presenti nella cartella chiamata "Input", ma potete aggiungerne altre per provare!
 Non è prevista una funzione di salvataggio automatico delle immagini prodotte.
+
+Edit: purtroppo la cartella pesa troppo per poter essere caricata su Github
